@@ -49,7 +49,7 @@ Neon Lua Editor is a sophisticated, neon-themed Lua code editor designed for bot
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neon-lua-editor.git
+git clone https://github.com/swifteditor/editor.git
 ```
 
 2. Open `index.html` in your web browser
